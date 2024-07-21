@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valerieswafford22
+- 👋 Hi, I’m @murchik-22
 - 👀 I’m interested in cybersecurity and computer engineering.
 - 🌱 I’m currently learning Python on Code Academy. 
 - 📫 How to reach me valerieswafford@proton.me
